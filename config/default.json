@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://mehedi:<password>@dev-connector-4ztfw.mongodb.net/test?retryWrites=true&w=majority",
+  "db_pass": "55555",
+  "jsonSecret": "mysecret",
+  "githubClientId": "afb4bb79dbf03cc0ec89",
+  "gitgubSecret": "c353ec26180e0a38db20d198dd181399f104ccf1"
+}

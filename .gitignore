@@ -1,0 +1,10 @@
+.idea/.gitignore
+.idea/codeStyles/
+.idea/dev-connector.iml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+node_modules/
+.idea/

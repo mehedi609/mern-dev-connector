@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Instructor & Senior Developer",
+    "company": "Traversy Media",
+    "location": "Boston, MA",
+    "from": "8-10-2010",
+    "current": true,
+    "description": "Create projects and courses on web development"
+  },
+  {
+    "title": "Web Developer",
+    "company": "Tech Guy Web Solutions",
+    "location": "Dhanmondi, Dhaka",
+    "from": "1-5-2006",
+    "to": "1-7-2009",
+    "description": "Full stack web developer"
+  }
+]
