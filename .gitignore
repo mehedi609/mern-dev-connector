@@ -8,3 +8,5 @@
 .idea/watcherTasks.xml
 node_modules/
 .idea/
+client/node_modules/
+
