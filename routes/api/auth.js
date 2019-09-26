@@ -5,6 +5,7 @@ const { check, validationResult } = require('express-validator');
 const bcrypt = require('bcrypt');
 const auth = require('./../../middleware/auth');
 const User = require('./../../models/User');
+
 const router = express.Router();
 
 // @route   GET api/auth
